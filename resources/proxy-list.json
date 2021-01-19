@@ -1,0 +1,368 @@
+[
+    {
+        "ip": "139.59.251.96",
+        "port": "8080",
+        "code": "SG",
+        "country": "Singapore"
+    },
+    {
+        "ip": "185.198.188.55",
+        "port": "8080",
+        "code": "GB",
+        "country": "United Kingdom"
+    },
+    {
+        "ip": "125.25.80.39",
+        "port": "42790",
+        "code": "TH",
+        "country": "Thailand"
+    },
+    {
+        "ip": "103.152.5.80",
+        "port": "8080",
+        "code": "ID",
+        "country": "Indonesia"
+    },
+    {
+        "ip": "185.198.189.21",
+        "port": "8080",
+        "code": "GB",
+        "country": "United Kingdom"
+    },
+    {
+        "ip": "208.80.28.208",
+        "port": "8080",
+        "code": "US",
+        "country": "United States"
+    },
+    {
+        "ip": "46.8.247.3",
+        "port": "50967",
+        "code": "RU",
+        "country": "Russian Federation"
+    },
+    {
+        "ip": "188.165.16.230",
+        "port": "3129",
+        "code": "FR",
+        "country": "France"
+    },
+    {
+        "ip": "51.158.180.179",
+        "port": "8811",
+        "code": "FR",
+        "country": "France"
+    },
+    {
+        "ip": "157.245.159.216",
+        "port": "3128",
+        "code": "SG",
+        "country": "Singapore"
+    },
+    {
+        "ip": "51.158.119.88",
+        "port": "8811",
+        "code": "FR",
+        "country": "France"
+    },
+    {
+        "ip": "51.158.172.165",
+        "port": "8811",
+        "code": "FR",
+        "country": "France"
+    },
+    {
+        "ip": "217.6.21.170",
+        "port": "8080",
+        "code": "DE",
+        "country": "Germany"
+    },
+    {
+        "ip": "168.119.205.132",
+        "port": "3128",
+        "code": "DE",
+        "country": "Germany"
+    },
+    {
+        "ip": "185.198.188.49",
+        "port": "8080",
+        "code": "GB",
+        "country": "United Kingdom"
+    },
+    {
+        "ip": "210.212.253.227",
+        "port": "8080",
+        "code": "IN",
+        "country": "India"
+    },
+    {
+        "ip": "162.155.10.150",
+        "port": "55443",
+        "code": "US",
+        "country": "United States"
+    },
+    {
+        "ip": "93.157.144.254",
+        "port": "8080",
+        "code": "RU",
+        "country": "Russian Federation"
+    },
+    {
+        "ip": "177.137.207.51",
+        "port": "55443",
+        "code": "BR",
+        "country": "Brazil"
+    },
+    {
+        "ip": "122.152.55.71",
+        "port": "55443",
+        "code": "BD",
+        "country": "Bangladesh"
+    },
+    {
+        "ip": "85.159.48.170",
+        "port": "40014",
+        "code": "HU",
+        "country": "Hungary"
+    },
+    {
+        "ip": "182.52.51.10",
+        "port": "61124",
+        "code": "TH",
+        "country": "Thailand"
+    },
+    {
+        "ip": "103.21.160.10",
+        "port": "35101",
+        "code": "IN",
+        "country": "India"
+    },
+    {
+        "ip": "139.99.102.114",
+        "port": "80",
+        "code": "SG",
+        "country": "Singapore"
+    },
+    {
+        "ip": "122.15.131.65",
+        "port": "57873",
+        "code": "IN",
+        "country": "India"
+    },
+    {
+        "ip": "176.110.121.90",
+        "port": "21776",
+        "code": "RU",
+        "country": "Russian Federation"
+    },
+    {
+        "ip": "142.93.180.72",
+        "port": "8888",
+        "code": "US",
+        "country": "United States"
+    },
+    {
+        "ip": "182.253.168.245",
+        "port": "8080",
+        "code": "ID",
+        "country": "Indonesia"
+    },
+    {
+        "ip": "175.106.17.62",
+        "port": "57406",
+        "code": "ID",
+        "country": "Indonesia"
+    },
+    {
+        "ip": "88.82.95.146",
+        "port": "3128",
+        "code": "RU",
+        "country": "Russian Federation"
+    },
+    {
+        "ip": "36.89.194.113",
+        "port": "40252",
+        "code": "ID",
+        "country": "Indonesia"
+    },
+    {
+        "ip": "184.155.36.194",
+        "port": "8080",
+        "code": "US",
+        "country": "United States"
+    },
+    {
+        "ip": "115.75.1.184",
+        "port": "8118",
+        "code": "VN",
+        "country": "Vietnam"
+    },
+    {
+        "ip": "128.199.162.224",
+        "port": "8888",
+        "code": "SG",
+        "country": "Singapore"
+    },
+    {
+        "ip": "139.99.105.5",
+        "port": "80",
+        "code": "SG",
+        "country": "Singapore"
+    },
+    {
+        "ip": "51.158.68.68",
+        "port": "8811",
+        "code": "FR",
+        "country": "France"
+    },
+    {
+        "ip": "79.110.52.243",
+        "port": "3128",
+        "code": "NL",
+        "country": "Netherlands"
+    },
+    {
+        "ip": "119.82.252.25",
+        "port": "42914",
+        "code": "KH",
+        "country": "Cambodia"
+    },
+    {
+        "ip": "1.4.157.35",
+        "port": "46944",
+        "code": "TH",
+        "country": "Thailand"
+    },
+    {
+        "ip": "176.197.95.2",
+        "port": "3128",
+        "code": "RU",
+        "country": "Russian Federation"
+    },
+    {
+        "ip": "177.37.240.52",
+        "port": "8080",
+        "code": "BR",
+        "country": "Brazil"
+    },
+    {
+        "ip": "103.57.70.248",
+        "port": "52000",
+        "code": "IN",
+        "country": "India"
+    },
+    {
+        "ip": "122.254.88.179",
+        "port": "8080",
+        "code": "NP",
+        "country": "Nepal"
+    },
+    {
+        "ip": "62.23.15.92",
+        "port": "3128",
+        "code": "FR",
+        "country": "France"
+    },
+    {
+        "ip": "193.242.151.42",
+        "port": "8080",
+        "code": "RU",
+        "country": "Russian Federation"
+    },
+    {
+        "ip": "103.13.181.16",
+        "port": "8080",
+        "code": "ID",
+        "country": "Indonesia"
+    },
+    {
+        "ip": "43.224.10.37",
+        "port": "6666",
+        "code": "IN",
+        "country": "India"
+    },
+    {
+        "ip": "51.254.237.77",
+        "port": "3129",
+        "code": "FR",
+        "country": "France"
+    },
+    {
+        "ip": "185.198.188.50",
+        "port": "8080",
+        "code": "GB",
+        "country": "United Kingdom"
+    },
+    {
+        "ip": "47.52.239.156",
+        "port": "3128",
+        "code": "HK",
+        "country": "Hong Kong"
+    },
+    {
+        "ip": "210.48.204.134",
+        "port": "46669",
+        "code": "MY",
+        "country": "Malaysia"
+    },
+    {
+        "ip": "168.228.51.197",
+        "port": "59144",
+        "code": "CR",
+        "country": "Costa Rica"
+    },
+    {
+        "ip": "178.33.251.230",
+        "port": "3129",
+        "code": "FR",
+        "country": "France"
+    },
+    {
+        "ip": "45.76.111.235",
+        "port": "3128",
+        "code": "JP",
+        "country": "Japan"
+    },
+    {
+        "ip": "51.158.165.18",
+        "port": "8811",
+        "code": "FR",
+        "country": "France"
+    },
+    {
+        "ip": "185.198.188.54",
+        "port": "8080",
+        "code": "GB",
+        "country": "United Kingdom"
+    },
+    {
+        "ip": "193.56.255.131",
+        "port": "3128",
+        "code": "SG",
+        "country": "Singapore"
+    },
+    {
+        "ip": "103.227.254.59",
+        "port": "80",
+        "code": "ID",
+        "country": "Indonesia"
+    },
+    {
+        "ip": "52.69.19.32",
+        "port": "80",
+        "code": "JP",
+        "country": "Japan"
+    },
+    {
+        "ip": "14.192.31.4",
+        "port": "50838",
+        "code": "IN",
+        "country": "India"
+    },
+    {
+        "ip": "185.198.188.53",
+        "port": "8080",
+        "code": "GB",
+        "country": "United Kingdom"
+    }
+]

@@ -10,7 +10,9 @@ const maxPages = 20
 ;(async () => {
     let url = startUrl
     const origin = new URL(url)
-    const browser = await puppeteer.launch()
+    const browser = await puppeteer.launch({
+        args: ['--proxy-server=http://185.198.188.51:8080']
+    })
     const page = await browser.newPage()
     const stream = fs.createWriteStream('data.txt', {flags: 'a'})
     let i=0
